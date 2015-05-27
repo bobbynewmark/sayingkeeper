@@ -1,0 +1,20 @@
+﻿html,body {
+	font-family:Arial, Helvetica, sans-serif;
+	height: 100%; 
+	margin: 0px; 
+	padding: 0px;
+}
+
+.saying
+{
+	text-align:center;
+	position:relative;
+	top:50%;
+	margin:0px;
+}
+
+.content
+{
+	position:relative;
+	height:100%;
+}
